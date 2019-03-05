@@ -1,5 +1,4 @@
 #Nicole E Soltis
-#08/
 
 #-------------------------------------------------------
 #location of all GEMMA runs for BcAtRNAseq
@@ -11,7 +10,7 @@
 #script: /media/nesoltis/Soltis_AtBc_eQTL/BcAt_RNAGWAS/GEMMA_eachBc_At/A04_runGEMMA_kmat_3genos.sh
 
 rm(list=ls())
-setwd("/media/nesoltis/Soltis_AtBc_eQTL/BcAt_RNAGWAS/GEMMA_eachBc_At")
+setwd("/media/nesoltis/Soltis_npr1coi1_eQTL/data/AtTranscript")
 
 #read in individual GEMMA output files (1 per geno)
 #read in all files in folder by pattern matching
